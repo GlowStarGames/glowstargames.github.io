@@ -1,17 +1,17 @@
 # site settings
 title: Alex Dempsey
 subtitle: Glow Star Games
-email: youremailaddress@gmail.com
+LinkedIn: https://www.linkedin.com/in/adddempsey/
 description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
 baseurl:
 url: https://glowstargames.github.io
 author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
+street_address:
+city:
+state:
 zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+country:
+phone:
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
@@ -26,11 +26,10 @@ socials:
   GitLab:
   Google-Plus:
   Instagram:
-  LinkedIn: https://www.linkedin.com/in/adddempsey/
+  LinkedIn:
   Twitter:
   Facebook:
   Slack:
-  <i class="fa-brands fa-itch-io"></i>: https://glowstargames.itch.io/
 
 # build settings
 markdown: kramdown
