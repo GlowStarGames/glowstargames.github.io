@@ -30,6 +30,7 @@ socials:
   Twitter:
   Facebook:
   Slack:
+  <i class="fa-brands fa-itch-io"></i>: https://glowstargames.itch.io/
 
 # build settings
 markdown: kramdown
