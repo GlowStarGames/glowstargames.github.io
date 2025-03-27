@@ -23,7 +23,6 @@ tiles-count: 6
 # You need to restart jekyll for changes to have an effect
 socials:
   GitHub:
-  Itch.io: https://glowstargames.itch.io/
   GitLab:
   Google-Plus:
   Instagram:
