@@ -1,7 +1,7 @@
 # site settings
 title: Alex Dempsey
 subtitle: Glow Star Games
-LinkedIn: https://www.linkedin.com/in/adddempsey/
+email: 
 description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
 baseurl:
 url: https://glowstargames.github.io
@@ -9,7 +9,7 @@ author:
 street_address:
 city:
 state:
-zip_code: 55555
+zip_code:
 country:
 phone:
 
@@ -23,10 +23,11 @@ tiles-count: 6
 # You need to restart jekyll for changes to have an effect
 socials:
   GitHub:
+  itch-io: https://glowstargames.itch.io/
   GitLab:
   Google-Plus:
   Instagram:
-  LinkedIn:
+  LinkedIn: https://www.linkedin.com/in/adddempsey/
   Twitter:
   Facebook:
   Slack:
